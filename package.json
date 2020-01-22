@@ -1,0 +1,39 @@
+{
+  "name": "sequelize-jwt-expressjs",
+  "version": "1.0.0",
+  "description": "an implementation of JWT authentication on Node js, using sequelize as on ORM and mysql as a database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/messkan/sequelize-jwt-expressjs.git"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "jwt",
+    "sequelize",
+    "mysql",
+    "node",
+    "js"
+  ],
+  "author": "Skander Ben Khelil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/messkan/sequelize-jwt-expressjs/issues"
+  },
+  "homepage": "https://github.com/messkan/sequelize-jwt-expressjs#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "sequelize": "^5.21.3"
+  }
+}
