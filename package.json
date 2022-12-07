@@ -27,8 +27,8 @@
   "homepage": "https://github.com/messkan/sequelize-jwt-expressjs#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.2",
